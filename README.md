@@ -1,3 +1,7 @@
+# Navigation in React
+
+In this simple project you'll learn fundamentals on how to navigate using Routes with and without params, also how to treat 404 error.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
